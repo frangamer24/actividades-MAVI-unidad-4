@@ -1,0 +1,4 @@
+﻿  actividad5.cpp
+C:\SFML\actividades mavi unidad 4\actividad 5 UNIDAD 4\actividad 5 UNIDAD 4\actividad5.cpp(33,30): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\SFML\actividades mavi unidad 4\actividad 5 UNIDAD 4\actividad 5 UNIDAD 4\actividad5.cpp(33,18): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+  actividad 5 UNIDAD 4.vcxproj -> C:\SFML\actividades mavi unidad 4\actividad 5 UNIDAD 4\Debug\actividad 5 UNIDAD 4.exe
