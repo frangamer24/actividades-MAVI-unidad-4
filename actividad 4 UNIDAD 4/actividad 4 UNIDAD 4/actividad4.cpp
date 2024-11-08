@@ -15,8 +15,9 @@ int main()
 
 	Sprite sprite;
 	sprite.setTexture(cuadrado);
-	sprite.setScale(0.5f, 0.5f);
+	sprite.setScale(0.25f, 0.25f);
 	sprite.setPosition(400, 300);
+	
 
 	bool usandocuadrado = true;
 	float velocidad = 5.0f;
